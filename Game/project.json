@@ -1,0 +1,9 @@
+{
+  "engine": "cocos2d-html5",
+  "packages": "packages",
+  "version": "2.4.0-rc.1",
+  "name": "Game",
+  "uuid": "7a682601-f461-4f05-a997-831d1d37b39e",
+  "id": "314f018b-aadb-4d2b-846a-20c670bd2bef",
+  "isNew": false
+}

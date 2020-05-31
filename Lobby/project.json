@@ -1,0 +1,9 @@
+{
+  "engine": "cocos2d-html5",
+  "packages": "packages",
+  "version": "2.4.0-rc.1",
+  "name": "lobby",
+  "uuid": "aefc36b5-686a-4570-a600-83c9eb8b6112",
+  "id": "9269caea-4a50-4c0c-a2a5-9a0e0f885fa8",
+  "isNew": false
+}
